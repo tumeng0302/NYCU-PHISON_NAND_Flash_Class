@@ -1,0 +1,4 @@
+echo 'hello world1111' > /tmp/ssd/ssd_file
+echo 'hello world2222' > /tmp/ssd/ssd_file
+echo 'hello world3333' > /tmp/ssd/ssd_file
+echo 'hello world4444' > /tmp/ssd/ssd_file
